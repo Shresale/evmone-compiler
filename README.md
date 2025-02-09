@@ -38,9 +38,9 @@ The codebase of _evmone_ is optimized to provide fast and efficient execution of
    and applied once per block during execution.
 3. Performs extensive and expensive bytecode analysis before execution.
 
-### :construction: Native Code Compiler (WIP) :construction:
+### :construction: <img src="lib/compiler/assets/LOGO.png" width="150" align=top> Native Code Compiler (WIP) :construction:
 
-See [lib/compiler/README.md](https://github.com/megaeth-labs/evmone-compiler/tree/master/lib/compiler).
+See [lib/compiler/README.md](lib/compiler/README.md).
 
 :warning: This is not developed or maintained by the evmone team (although we hope to send it upstream one day).
 

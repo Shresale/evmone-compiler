@@ -1,3 +1,5 @@
+![logo](assets/LOGO.png)
+
 # evmone compiler
 > EVM ahead-of-time compiler based on the fast evmone interpreter
 
